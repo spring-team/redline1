@@ -30,7 +30,7 @@ class Redline1Controller {
 
 	@RequestMapping(method = GET, path = "/")
 	public String root() {
-		return "Spring Boot REST service running over the Atlantic Ocean "
+		return "Spring Boot REST service running over the North Sea "
 				+ getClass().getName();
 	}
 
